@@ -1,22 +1,8 @@
-# task_list
+This is a todo list that I build using VueJS and Json-Server. It allows users to add a new task and also remove the task once it's been completed and the data is stored on the json server.
 
-> A task list I did using vue and json
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-"# vueTaskManager" 
+Skills Learned:-
+- VUE js components
+- VUE js Props
+- Axios
+- VUE conditions and loops
+- VUE if statements
